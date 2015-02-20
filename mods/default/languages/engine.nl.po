@@ -38,12 +38,12 @@ msgstr "Je bent verslagen.  Je verliest de helft van je goud.  Druk op Enter om 
 #: ../../../src/CampaignManager.cpp:133
 #, c-format
 msgid "%d %s removed."
-msgstr ""
+msgstr "%d %s verwijderd"
 
 #: ../../../src/CampaignManager.cpp:139
 #, c-format
 msgid "%s removed."
-msgstr ""
+msgstr "%s verwijderd"
 
 #: ../../../src/CampaignManager.cpp:154
 #, c-format
@@ -71,34 +71,34 @@ msgstr ""
 
 #: ../../../src/CampaignManager.cpp:188
 msgid "MP restored."
-msgstr ""
+msgstr "MP hersteld"
 
 #: ../../../src/CampaignManager.cpp:193
 msgid "HP and MP restored."
-msgstr ""
+msgstr "TP en MP hersteld"
 
 #: ../../../src/CampaignManager.cpp:197
 msgid "Negative effects removed."
-msgstr ""
+msgstr "Negatieve effecten verwijderd"
 
 #: ../../../src/CampaignManager.cpp:203
 msgid "HP and MP restored, negative effects removed"
-msgstr ""
+msgstr "TP en MP hersteld, negatieve effecten verwijderd"
 
 #: ../../../src/Entity.cpp:158
 msgid "miss"
-msgstr ""
+msgstr "mis"
 
 #: ../../../src/Entity.cpp:278 ../../../src/PowerManager.cpp:772
 #: ../../../src/StatBlock.cpp:568
 #, c-format
 msgid "+%d HP"
-msgstr ""
+msgstr "+%d TP"
 
 #: ../../../src/Entity.cpp:284 ../../../src/StatBlock.cpp:573
 #, c-format
 msgid "+%d MP"
-msgstr ""
+msgstr "+%d MP"
 
 #: ../../../src/EventManager.cpp:457
 msgid "Unknown destination"
@@ -144,7 +144,7 @@ msgstr "Mods"
 #: ../../../src/GameStateConfig.cpp:164 ../../../src/GameStateConfig.cpp:1003
 #: ../../../src/GameStateConfig.cpp:1005
 msgid "Assign: "
-msgstr ""
+msgstr "Toewijzen: "
 
 #: ../../../src/GameStateConfig.cpp:165
 #, fuzzy
@@ -154,7 +154,7 @@ msgstr "ALLE instellingen terugzetten op de standaardwaarden?"
 #: ../../../src/GameStateConfig.cpp:166
 #, fuzzy
 msgid "Use this resolution?"
-msgstr "Resolutie"
+msgstr "Deze Resolutie gebruiken?"
 
 #: ../../../src/GameStateConfig.cpp:288
 msgid "Full Screen Mode"
@@ -162,7 +162,7 @@ msgstr "Volledig scherm"
 
 #: ../../../src/GameStateConfig.cpp:291
 msgid "Move hero using mouse"
-msgstr "Muisbesturing"
+msgstr "Beweeg de Held met Muisbesturing"
 
 #: ../../../src/GameStateConfig.cpp:294
 msgid "Show combat text"
@@ -182,15 +182,15 @@ msgstr "Gebruik de Joystick"
 
 #: ../../../src/GameStateConfig.cpp:306
 msgid "High Quality Textures"
-msgstr ""
+msgstr "Hoge qualiteit texturen"
 
 #: ../../../src/GameStateConfig.cpp:309
 msgid "Allow changing gamma"
-msgstr ""
+msgstr "Sta verandering van gamma toe"
 
 #: ../../../src/GameStateConfig.cpp:312
 msgid "Animated tiles"
-msgstr ""
+msgstr "Geanimeerde velden"
 
 #: ../../../src/GameStateConfig.cpp:315
 msgid "Mouse aim"
@@ -199,7 +199,7 @@ msgstr ""
 #: ../../../src/GameStateConfig.cpp:318
 #, fuzzy
 msgid "Do not use mouse"
-msgstr "Muisbesturing"
+msgstr "Gebruik geen Muisbesturing"
 
 #: ../../../src/GameStateConfig.cpp:321
 msgid "Show FPS"
@@ -207,7 +207,7 @@ msgstr ""
 
 #: ../../../src/GameStateConfig.cpp:324
 msgid "Show Hotkeys Labels"
-msgstr ""
+msgstr "Laat sneltoets labels zien"
 
 #: ../../../src/GameStateConfig.cpp:327
 msgid "Colorblind Mode"
@@ -228,7 +228,7 @@ msgstr "Gammacorrectie"
 #: ../../../src/GameStateConfig.cpp:377
 #, fuzzy
 msgid "Joystick Deadzone"
-msgstr "Joystick"
+msgstr "Joystick eindgebied"
 
 #: ../../../src/GameStateConfig.cpp:391
 msgid "Resolution"
@@ -263,7 +263,7 @@ msgstr ""
 
 #: ../../../src/GameStateConfig.cpp:507
 msgid "For handheld devices"
-msgstr ""
+msgstr "Voor handheld apparaten "
 
 #: ../../../src/GameStateConfig.cpp:527
 #, fuzzy
@@ -272,7 +272,7 @@ msgstr "<< Deactiveren"
 
 #: ../../../src/GameStateConfig.cpp:535
 msgid "Enable >>"
-msgstr ""
+msgstr "Activeren >>"
 
 #: ../../../src/GameStateLoad.cpp:55 ../../../src/GameStateLoad.cpp:67
 msgid "Delete Save"
@@ -292,11 +292,11 @@ msgstr "Kies een Slot"
 
 #: ../../../src/GameStateLoad.cpp:482
 msgid "New Game"
-msgstr "New Spel"
+msgstr "Nieuw Spel"
 
 #: ../../../src/GameStateLoad.cpp:486 ../../../src/GameStateLoad.cpp:501
 msgid "Enable a story mod to continue"
-msgstr ""
+msgstr "Activeer een verhaal MOD om door te gaan"
 
 #: ../../../src/GameStateLoad.cpp:496
 msgid "Load Game"
@@ -327,7 +327,7 @@ msgstr "Leeg Slot"
 #: ../../../src/GameStateNew.cpp:62
 #, fuzzy
 msgid "Create"
-msgstr "Karakter"
+msgstr "Maak"
 
 #: ../../../src/GameStateNew.cpp:173
 msgid "Choose a Portrait"
@@ -368,7 +368,7 @@ msgstr "Spel Spelen"
 
 #: ../../../src/GameStateTitle.cpp:46
 msgid "Enable a core mod to continue"
-msgstr ""
+msgstr "Activeer een CORE MOD om door te gaan"
 
 #: ../../../src/GameStateTitle.cpp:50
 msgid "Configuration"
@@ -389,24 +389,24 @@ msgstr "Flare Alpha v0.18"
 
 #: ../../../src/InputState.cpp:623
 msgid "Accept"
-msgstr ""
+msgstr "Accepteren"
 
 #: ../../../src/InputState.cpp:624
 msgid "Up"
-msgstr ""
+msgstr "Omhoog"
 
 #: ../../../src/InputState.cpp:625
 msgid "Down"
-msgstr ""
+msgstr "Onder"
 
 #: ../../../src/InputState.cpp:626
 msgid "Left"
-msgstr ""
+msgstr "Links"
 
 #: ../../../src/InputState.cpp:627
 #, fuzzy
 msgid "Right"
-msgstr "Ridder"
+msgstr "Rechts"
 
 #: ../../../src/InputState.cpp:628
 msgid "Bar1"
@@ -488,23 +488,23 @@ msgstr ""
 #: ../../../src/InputState.cpp:646
 #, fuzzy
 msgid "Delete"
-msgstr "Spel verwijderen"
+msgstr "Verwijderen"
 
 #: ../../../src/InputState.cpp:647
 msgid "ActionBar Accept"
-msgstr ""
+msgstr "Accepteer Actiebalk"
 
 #: ../../../src/InputState.cpp:648
 msgid "ActionBar Left"
-msgstr ""
+msgstr "Linker Actiebalk"
 
 #: ../../../src/InputState.cpp:649
 msgid "ActionBar Right"
-msgstr ""
+msgstr "Rechter Actiebalk"
 
 #: ../../../src/InputState.cpp:650
 msgid "ActionBar Use"
-msgstr ""
+msgstr "Actiebalk gebruik"
 
 #: ../../../src/InputState.cpp:652
 msgid "lmb"
@@ -520,11 +520,11 @@ msgstr ""
 
 #: ../../../src/InputState.cpp:655
 msgid "wheel up"
-msgstr ""
+msgstr "Wiel omhoog"
 
 #: ../../../src/InputState.cpp:656
 msgid "wheel down"
-msgstr ""
+msgstr "Wiel omlaag"
 
 #: ../../../src/InputState.cpp:657
 msgid "mbx1"
@@ -541,15 +541,15 @@ msgstr "Log"
 
 #: ../../../src/ItemManager.cpp:492
 msgid "Normal"
-msgstr ""
+msgstr "Normaal"
 
 #: ../../../src/ItemManager.cpp:496
 msgid "High"
-msgstr ""
+msgstr "Hoog"
 
 #: ../../../src/ItemManager.cpp:500
 msgid "Epic"
-msgstr ""
+msgstr "Episch"
 
 #: ../../../src/ItemManager.cpp:513
 #, c-format
@@ -599,7 +599,7 @@ msgstr "Absorbtie: %d"
 #: ../../../src/ItemManager.cpp:554
 #, c-format
 msgid "%d% Speed"
-msgstr ""
+msgstr "%d% Snelheid"
 
 #: ../../../src/ItemManager.cpp:560 ../../../src/ItemManager.cpp:659
 #, c-format
@@ -638,7 +638,7 @@ msgstr "Vereist %d Verdediging"
 #: ../../../src/ItemManager.cpp:609
 #, c-format
 msgid "Quality: %s"
-msgstr ""
+msgstr "Qualiteit: 5s"
 
 #: ../../../src/ItemManager.cpp:626 ../../../src/ItemManager.cpp:635
 #, fuzzy, c-format
@@ -663,12 +663,12 @@ msgstr "Verkoopprijs: %d goud per stuk"
 #: ../../../src/ItemManager.cpp:655
 #, fuzzy
 msgid "Set: "
-msgstr "Volgende: %d"
+msgstr "Set: %d"
 
 #: ../../../src/ItemManager.cpp:659 ../../../src/ItemManager.cpp:662
 #, c-format
 msgid "%d items: "
-msgstr ""
+msgstr "%d items: "
 
 #: ../../../src/MenuCharacter.cpp:275
 msgid "Name"
@@ -700,12 +700,12 @@ msgstr "Punten resterend"
 
 #: ../../../src/MenuCharacter.cpp:334
 msgid "Max HP:"
-msgstr ""
+msgstr "Max TP:"
 
 #: ../../../src/MenuCharacter.cpp:340
 #, fuzzy
 msgid "HP Regen:"
-msgstr "Herstel"
+msgstr "TP Herstel"
 
 #: ../../../src/MenuCharacter.cpp:341
 #, fuzzy
@@ -714,12 +714,12 @@ msgstr "Herstel van TP per minuut"
 
 #: ../../../src/MenuCharacter.cpp:346
 msgid "Max MP:"
-msgstr ""
+msgstr "Max MP:"
 
 #: ../../../src/MenuCharacter.cpp:352
 #, fuzzy
 msgid "MP Regen:"
-msgstr "Herstel"
+msgstr "MP Herstel"
 
 #: ../../../src/MenuCharacter.cpp:353
 #, fuzzy
@@ -753,7 +753,7 @@ msgstr "Mentale schade: %d"
 
 #: ../../../src/MenuCharacter.cpp:400
 msgid "Crit:"
-msgstr ""
+msgstr "Kritiek:"
 
 #: ../../../src/MenuCharacter.cpp:406
 #, fuzzy
@@ -766,7 +766,7 @@ msgstr ""
 
 #: ../../../src/MenuCharacter.cpp:417
 msgid "Reduces your chance of stumbling when hit"
-msgstr ""
+msgstr "Beperkt je kans op struikelen bij 'n treffer "
 
 #: ../../../src/MenuCharacter.cpp:422
 msgid "Bonus XP: "
@@ -774,7 +774,7 @@ msgstr ""
 
 #: ../../../src/MenuCharacter.cpp:423
 msgid "Increases the XP gained per kill"
-msgstr ""
+msgstr "Verhoogd de verkregen XP per slachtoffer"
 
 #: ../../../src/MenuCharacter.cpp:428
 msgid "Bonus"
@@ -787,19 +787,19 @@ msgstr "Verhoogd %s met %d"
 
 #: ../../../src/MenuCharacter.cpp:434
 msgid "Bonus Item Find: "
-msgstr ""
+msgstr "Bonus Item vondst"
 
 #: ../../../src/MenuCharacter.cpp:435
 msgid "Increases the chance that an enemy will drop an item when killed"
-msgstr ""
+msgstr "Verhoogd de kans dat een verslagen vijand een item zal laten vallen "
 
 #: ../../../src/MenuCharacter.cpp:440
 msgid "Stealth: "
-msgstr ""
+msgstr "Onontdekbaar"
 
 #: ../../../src/MenuCharacter.cpp:441
 msgid "Increases your ability to move undetected"
-msgstr ""
+msgstr "Verhoogd je kans om onontdekt te bewegen"
 
 #: ../../../src/MenuCharacter.cpp:459
 #, c-format
@@ -878,22 +878,22 @@ msgstr "Opslaan en naar het hoofdmenu"
 #: ../../../src/MenuInventory.cpp:146
 #, c-format
 msgid "Lost %d%% of %s. "
-msgstr ""
+msgstr "%d%% verloren van %s"
 
 #: ../../../src/MenuInventory.cpp:153
 #, c-format
 msgid "Lost %d%% of total XP. "
-msgstr ""
+msgstr "%d%% verloren van totaal XP"
 
 #: ../../../src/MenuInventory.cpp:158
 #, c-format
 msgid "Lost %d%% of current level XP. "
-msgstr ""
+msgstr "%d%% verloren van huidig XP noveau"
 
 #: ../../../src/MenuInventory.cpp:184
 #, c-format
 msgid "Lost %s."
-msgstr ""
+msgstr "%s verloren"
 
 #: ../../../src/MenuInventory.cpp:228
 #, fuzzy, c-format
@@ -914,7 +914,7 @@ msgstr "Dit artikel kan alleen vanaf de actiebalk gebruikt worden."
 
 #: ../../../src/MenuLog.cpp:76
 msgid "Notes"
-msgstr ""
+msgstr "Notities"
 
 #: ../../../src/MenuLog.cpp:77
 msgid "Quests"
@@ -930,7 +930,7 @@ msgstr "EP: %d/%d"
 #: ../../../src/MenuManager.cpp:1037 ../../../src/MenuManager.cpp:1038
 #, c-format
 msgid "Not enough %s."
-msgstr ""
+msgstr "Niet genoeg %s"
 
 #: ../../../src/MenuNPCActions.cpp:70
 msgid "Trade"
@@ -984,7 +984,7 @@ msgstr "Vereist een fysiek wapen"
 
 #: ../../../src/MenuPowers.cpp:603
 msgid "Click to Unlock"
-msgstr ""
+msgstr "Klik van slot te halen"
 
 #: ../../../src/MenuPowers.cpp:611 ../../../src/MenuPowers.cpp:614
 #, fuzzy, c-format
@@ -1008,11 +1008,11 @@ msgstr "Afkoeltijd: %d seconden"
 
 #: ../../../src/MenuStash.cpp:124
 msgid "Shared Stash"
-msgstr ""
+msgstr "Gezamelijke opslag"
 
 #: ../../../src/MenuVendor.cpp:51
 msgid "Buyback"
-msgstr ""
+msgstr "Terugkopen"
 
 #: ../../../src/MenuVendor.cpp:171
 msgid "Vendor"
@@ -1021,11 +1021,11 @@ msgstr "Verkoper"
 #: ../../../src/PowerManager.cpp:759
 #, c-format
 msgid "+%d Shield"
-msgstr ""
+msgstr "+%d Bescherming"
 
 #: ../../../src/PowerManager.cpp:1006
 msgid "You are already transformed, untransform first."
-msgstr ""
+msgstr "Je bent al getransformeerd, Transformeer eerst terug"
 
 #: ../../../src/Settings.cpp:594
 msgid "Adventurer"
